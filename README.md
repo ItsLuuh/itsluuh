@@ -1,16 +1,19 @@
-### Hi there 👋
+###⭐️ Luuh:
 
-<!--
-**ItsLuuh/itsluuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📌 Work:
+⚡️ **Owner** on *VerionMC*  (🇮🇹)⚡️
+🌐 **Contacts:** Telegram @LuuhOnFire
 
-Here are some ideas to get you started:
+📌 Me:
+« 🧬 » **Sigma Male**
+« 🧑🏻‍💻 » **Coding** 
+« 🎮 » **Videogames**
+« 🏋️‍♂️ » **Gym**
+« ♟ » **Chess**
+« 🐈 » **Cat Enjoyer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Skills:
+▫️ ☕️ Learning **Java** ___(Medium)___ ☕️
+▫️ 🐍 Learning **Python** ***(Beginner)*** 🐍
+▫️ ⚙️ Minecraft **Pluginner** ***(High)*** ⚙️
+▫️ 🎙 Discord **Setups** ***(High)*** 🎙
