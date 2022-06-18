@@ -1,20 +1,19 @@
 ## ⭐️Luuh:
 
 ### 📌 Me:
-- ##### **Sigma Male** 🧬
-- ##### **Coding** 🧑🏻‍💻 
-- ##### **Videogames** 🎮
-- ##### **Gym** 🏋️‍
-- #####  **Chess** ♟
-- ##### **Cat Enjoyer** 🐈
+##### **Sigma Male** 🧬
+##### **Coding** 🧑🏻‍💻 
+##### **Videogames** 🎮
+##### **Gym** 🏋️‍
+#####  **Chess** ♟
+##### **Cat Enjoyer** 🐈
 
 ##
 
 ### 📌 Work:
 ##### ⚡️ **Owner** of *VerionMC*  (🇮🇹)⚡️
-##### 🌐 **Contacts:**
-
-<a href="https://stackoverflow.com/"><img src="images/telegram.png"></img></a>
+##### 🌐 **Contacts:** Telegram 🔽 | Discord: Luuh#4586
+<a href="https://t.me/LuuhOnFire"><img src="images/telegramgif.png"></img></a>
 
 ##
 
@@ -23,6 +22,7 @@
 ##### 🐍 Learning **Python** ***(Beginner)*** 🐍
 ##### ⚙️ Minecraft **Pluginner** ***(High)*** ⚙️
 ##### 🎙 Discord **Setups** ***(High)*** 🎙
+
 ##
 > "I am not the Villain in this story, I do what i do because there is no choice." -Samuel Hayden (Doom 2016)
 ##
