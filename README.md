@@ -14,6 +14,8 @@
 ##### ⚡️ **Owner** of *VerionMC*  (🇮🇹)⚡️
 ##### 🌐 **Contacts:**
 
+<a href="https://stackoverflow.com/"><img src="images/telegram.png"></img></a>
+
 ##
 
 ### 📌 Skills:
