@@ -25,6 +25,7 @@
 
 ##
 > "I am not the Villain in this story, I do what i do because there is no choice." -Samuel Hayden (Doom 2016)
+> "And those who were seen dancing were thought to be insane by those who could not hear the music." -Friedrich Wilhelm Nietzsche
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsluuh&count_private=true&show_icons=true&theme=github_dark)
