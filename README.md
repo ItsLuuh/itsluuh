@@ -1,7 +1,6 @@
 ## ⭐️Luuh:
 
 ### 📌 Me:
-##### **Sigma Male** 🧬
 ##### **Coding** 🧑🏻‍💻 
 ##### **Videogames** 🎮
 ##### **Gym** 🏋️‍
@@ -13,7 +12,7 @@
 ### 📌 Work:
 ##### ⚡️ **Owner** of *VerionMC*  (🇮🇹)⚡️
 ##### 🌐 **Contacts:** Telegram 🔽 | Discord: Luuh#4586
-<a href="https://t.me/LuuhOnFire"><img src="images/telegramgif.png"></img></a>
+<a href="https://t.me/ItsLuuh"><img src="images/telegramgif.png"></img></a>
 
 ##
 
