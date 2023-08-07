@@ -11,7 +11,7 @@
 
 ### 📌 Work:
 ##### ⚡️ **Owner** of *VerionMC*  (🇮🇹)⚡️
-##### 🌐 **Contacts:** Telegram 🔽 | Discord: Luuh#4586
+##### 🌐 **Contacts:** Telegram 🔽 | Discord: its4luuh
 <a href="https://t.me/ItsLuuh"><img src="images/telegramgif.png"></img></a>
 
 ##
