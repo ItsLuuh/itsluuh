@@ -15,9 +15,9 @@
 ##
 
 ### 📌 Skills:
-##### ☕️ Learning **Java** ___(Medium)___ ☕️
-##### ©️ Learning **C#** ***(Beginner)*** ©️
-##### ⚙️ Minecraft **Pluginner** ***(High)*** ⚙️
+##### ☕️ Learning **Java** ___(High)___ ☕️
+##### ⚙️ Minecraft **Configurations** ***(High)*** ⚙️
 ##### 🎙 Discord **Setups** ***(High)*** 🎙
+##### ©️ Learning **C++** ***(Beginner)*** ©️
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsluuh&count_private=true&show_icons=true&theme=github_dark)
